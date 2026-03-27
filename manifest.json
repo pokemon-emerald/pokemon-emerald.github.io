@@ -1,0 +1,37 @@
+{
+  "name": "Pokemon Emerald Online",
+  "short_name": "Pokemon Emerald",
+  "description": "Play Pokemon Emerald online free in your browser. No download needed. Explore the Hoenn region!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060d06",
+  "theme_color": "#00c853",
+  "orientation": "landscape-primary",
+  "lang": "en",
+  "scope": "/",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Pokemon Emerald Online gameplay"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
